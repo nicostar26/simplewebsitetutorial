@@ -3,7 +3,6 @@
     line-height: 1.7em;
     margin: 0px;
     padding: 0px;
-
 }
 
 .header{
@@ -11,7 +10,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
-    width: 100%; 
+    width: 100%;
 }
 
 .top-banner{
@@ -55,9 +54,9 @@
     color: white;
     font-size: 40px;
 }
+
 .header-info h2{
     color: maroon;
-
 }
 
 .portfolio-title{
@@ -80,7 +79,6 @@
     height: 200px;
     width: 300px;
     box-shadow: 5px 8px 10px grey;
-
 }
 
 .portfolio h3{
@@ -111,14 +109,14 @@
         text-align: center;
     }
 
-    .logo img{
-        margin: 10px 0px;
-        height: 50px;
-    }
-    
     .nav{
         text-align: center;
-        margin: 0px;
+        margin: 0;
+    }
+
+    .logo img{
+        height: 50px;
+        margin: 10px 0px;
     }
 }
 
@@ -134,7 +132,7 @@
         background-repeat: no-repeat;
         background-size: cover;
         height: 800px;
-        width: 100%; 
+        width: 100%;
     }
 
     .header-info{
@@ -153,8 +151,8 @@
         background-image: url('../img/photographer.jpg');
         background-repeat: no-repeat;
         background-size: cover;
-        background-position-x: -120px;
+        background-position: -120px;
         height: 800px;
-        width: 100%; 
+        width: 100%;
     }
 }
